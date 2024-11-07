@@ -1,4 +1,6 @@
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 #data_path = ".\Data\"
 
@@ -29,3 +31,10 @@ print(weather_missing_data[weather_missing_data > 0])
 #Inconsistancies
 
 ##Final Review
+
+##data visualisation
+#sns.histplot(data=charging_data, x='connectionTime', bins=30, kde=True)
+#plt.title("Distribution of Charging Session Durations")
+#plt.xlabel("Duration (minutes)")
+#plt.ylabel("Frequency")
+#plt.show()

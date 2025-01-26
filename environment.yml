@@ -22,3 +22,4 @@ dependencies:
     - torch
     - keras
     - nltk
+    - pmdarima

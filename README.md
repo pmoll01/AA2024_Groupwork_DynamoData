@@ -34,9 +34,12 @@ The provided data includes charging sessions at two locations (public and privat
 ```
 📂 project-root/
 ├── 📁 data/                 # Datasets
-├── 📁 notebooks/            # Jupyter Notebooks for analysis and modeling
-├── 📁 visualizations/       # Visualized results
 ├── 📁 oldTest/              # Test files
+├── Task_1.ipynb             # Jupiter Notebook for Task 1
+├── Task_2.ipynb             # Jupiter Notebook for Task 2
+├── Task_3.ipynb             # Jupiter Notebook for Task 3
+├── Task_4.ipynb             # Jupiter Notebook for Task 4
+├── Task_4_pipe.ipynb        # Jupiter Notebook for Task 4 - Pipeline for multi-site-preddictions
 └── README.md                # Project overview
 ```
 
